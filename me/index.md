@@ -13,7 +13,7 @@ title: me
 
 - [Github](https://github.com/5anniversary)
 
-- [mail](oh.junhyeon95@gmail.com)
+- [mail](mailto:oh.junhyeon95@gmail.com)
 
 ## 경력
 
