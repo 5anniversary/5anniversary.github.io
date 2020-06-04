@@ -16,7 +16,7 @@ title: me
 - [mail](mailto:oh.junhyeon95@gmail.com)
 
 ## 경력
-
+<br>
 ### [인터마인즈](https://intermindsai.com)
 
 - 2019/09/23 ~ 2019/12/31
