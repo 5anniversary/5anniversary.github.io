@@ -1,11 +1,11 @@
 tag1:
-  name: 2019
+  name: tag1
 
 tag2:
-  name: 2020
+  name: tag2
 
 tag3:
-  name: Project
+  name: tag3
 
-Study:
-  name: Study
+tag4:
+  name: tag4
