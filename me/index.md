@@ -16,8 +16,8 @@ title: me
 - [mail](mailto:oh.junhyeon95@gmail.com)
 
 ## 경력
-<br>
-### [인터마인즈](https://intermindsai.com)
+
+### 인터마인즈
 
 - 2019/09/23 ~ 2019/12/31
 - [사내 Project](#이미지인식을-통한-상품-결제-키오스크)
