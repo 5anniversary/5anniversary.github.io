@@ -4,14 +4,14 @@
 iOS:
   name: iOS
 
-Project:
-  name: Project
+project:
+  name: project
 
-Study:
-  name: Study
+study:
+  name: study
 
 2020:
   name: 2020
 
-Server:
-  name: Server
+server:
+  name: server
