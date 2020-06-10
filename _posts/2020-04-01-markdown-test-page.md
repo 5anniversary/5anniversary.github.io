@@ -1,30 +1,33 @@
 ---
 layout: default
-title: "NUTEE"
-tags: tag1
+title: "Study Together iOS"
+tags: tag3
 ---
 
-# NUTEE-iOS
+# StudyTogether-iOS
 
 
 
 ## 기능설명
 
-### 	성공회대 구성원들을 위한 커뮤니케이션 어플리케이션 서비스
+### 스터디를 찾고, 관리해주는 어플리케이션
 
 
 
 앱 아이콘
 ------------
 
-<img src="https://github.com/team-nutee/NUTEE-iOS/blob/develop/IMG/NUTEE.png?raw=true" width="300">
+<img src="https://user-images.githubusercontent.com/22820675/84229893-af375480-ab25-11ea-88d5-cafca8989a47.png" width="300">
 
 
 
 스크린 샷
 ------------
-<img src="https://github.com/team-nutee/NUTEE-iOS/blob/develop/IMG/1.jpg?raw=true" width="300"><img src="https://github.com/team-nutee/NUTEE-iOS/blob/develop/IMG/2.jpg?raw=true" width="300"><img src="https://github.com/team-nutee/NUTEE-iOS/blob/develop/IMG/3.jpg?raw=true" width="300"><img src="https://github.com/team-nutee/NUTEE-iOS/blob/develop/IMG/4.jpg?raw=true" width="300"><img src="https://github.com/team-nutee/NUTEE-iOS/blob/develop/IMG/5.jpg?raw=true" width="300"><img src="https://github.com/team-nutee/NUTEE-iOS/blob/develop/IMG/6.jpg?raw=true" width="300">
-
+<img src="https://user-images.githubusercontent.com/22820675/84229813-78613e80-ab25-11ea-9d46-bbed6a2a35e4.png" width="300">
+<img src="https://user-images.githubusercontent.com/22820675/84229817-7b5c2f00-ab25-11ea-9fbf-28810d475cea.png" width="300">
+<img src="https://user-images.githubusercontent.com/22820675/84229820-7d25f280-ab25-11ea-87da-346105366420.png" width="300">
+<img src="https://user-images.githubusercontent.com/22820675/84229822-7dbe8900-ab25-11ea-8b78-1833bfacb86f.png" width="300">
+<img src="https://user-images.githubusercontent.com/22820675/84229825-7e571f80-ab25-11ea-9dc6-f09882f735fc.png" width="300">
 
 
 개발 환경
@@ -41,9 +44,7 @@ tags: tag1
 | -------------------- | ---------------------------------- |
 | Alamofire            | REST API 서버 연동                 |
 | Kingfisher           | 이미지 URL 처리                    |
-| Tabman               | 상단 탭바 처리                     |
 | Snapkit              | 코드로 구현하는 레이아웃           |
-| YPImagePicker        | 이미지 다중선택을 위한 ImagePicker |
 | Then                 | 코드 단순화를 위해 사용            |
 | SwiftKeychainWrapper | 중요 자료 암호화 저장을 위해 사용  |
 
@@ -75,7 +76,7 @@ tags: tag1
 
 > 성공회대 소프트웨어공학과 15학번 학생입니다.
 >
-> NUTEE iOS, 앱 디자인 파트를 담당하고 있습니다.
+> StudyTogether iOS, 앱 디자인 파트, Server를 담당하고 있습니다.
 
 
 
@@ -83,4 +84,11 @@ tags: tag1
 
 > 성공회대 소프트웨어공학과 15학번 학생입니다.
 >
-> NUTEE iOS 파트를 담당하고 있습니다.
+> StudyTogether iOS 파트를 담당하고 있습니다.
+
+
+* 원현식
+
+> 성공회대 글로컬IT학과 16학번 학생입니다.
+>
+> StudyTogether iOS 파트를 담당하고 있습니다.
