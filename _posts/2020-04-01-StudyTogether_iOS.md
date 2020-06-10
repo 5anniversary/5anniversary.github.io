@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Study Together iOS"
-tags: 2020 Project iOS
+tags: 2020
 ---
 
 # StudyTogether-iOS

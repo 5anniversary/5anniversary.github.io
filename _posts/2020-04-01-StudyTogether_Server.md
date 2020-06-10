@@ -4,7 +4,7 @@ title: "Study Together Server"
 tags: 2020 Project Server
 ---
 
-# StudyTogether-iOS
+# StudyTogether-Server
 
 
 
