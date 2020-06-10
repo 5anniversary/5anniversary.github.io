@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Study Together Server"
-tags: tag3
+tags: 2020 Project Server
 ---
 
 # StudyTogether-iOS

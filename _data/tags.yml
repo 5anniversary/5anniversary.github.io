@@ -1,14 +1,17 @@
-tag1:
+2019:
   name: 2019
 
-tag2:
-  name: 2020
+iOS:
+  name: iOS
 
-tag3:
+Project:
   name: Project
 
-tag4:
+Study:
   name: Study
 
 2020:
   name: 2020
+
+Server:
+  name: Server
