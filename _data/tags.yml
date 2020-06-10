@@ -1,5 +1,5 @@
-2019:
-  name: 2019
+2019y:
+  name: 2019y
 
 iOS:
   name: iOS
@@ -10,8 +10,8 @@ project:
 study:
   name: study
 
-2020:
-  name: 2020
+2020y:
+  name: 2020y
 
 server:
   name: server

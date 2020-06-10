@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Study Together Server"
-tags: 2020 project server
+tags: 2020y project server
 ---
 
 # StudyTogether-Server
