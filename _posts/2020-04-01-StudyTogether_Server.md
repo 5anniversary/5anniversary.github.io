@@ -41,7 +41,7 @@ tags: 2020y project server
 3. Vapor 버젼
 - 3
 
-3. (API Wiki)[https://github.com/SKHU-STUDY/Server/wiki]
+3. [API Wiki](https://github.com/SKHU-STUDY/Server/wiki)
 
 
 
