@@ -4,7 +4,7 @@ title: "Study Together Server"
 tags: 2020y project server
 ---
 
-# StudyTogether-Server
+# [StudyTogether-Server](https://github.com/SKHU-STUDY/Server)
 
 
 

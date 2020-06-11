@@ -4,7 +4,7 @@ title: "Study Together iOS"
 tags: 2020y project iOS
 ---
 
-# StudyTogether-iOS
+# [StudyTogether-iOS](https://github.com/SKHU-STUDY/StudySearch)
 
 
 
