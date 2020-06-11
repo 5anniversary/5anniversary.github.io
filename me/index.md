@@ -52,7 +52,7 @@ title: me
 ### [Nutee](https://5anniversary.dev/20200104/NUTEE-iOS)
 <br>
 
-### MAL(외주)
+### [MAL(외주)](https://apps.apple.com/kr/app/mal-battery-detecter/id1514115590)
 <br>
 
 ### [Flood](https://5anniversary.dev/20191221/Flood_iOS)
