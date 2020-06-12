@@ -48,7 +48,8 @@ title: me
 
 - SOPT 26기 해커톤
 
-### [StudyTogher](https://5anniversary.dev/20200401/StudyTogether_iOS)
+### [StudyTogether_iOS](https://5anniversary.dev/20200401/StudyTogether_iOS)
+### [StudyTogether_Server](https://5anniversary.dev/20200401/StudyTogether_Server)
 <br>
 
 - 20-1학기 팀 프로젝트
