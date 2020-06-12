@@ -12,6 +12,9 @@ tags: 2020y project server
 
 ### 스터디를 찾고, 관리해주는 어플리케이션
 
+## 사용 기술
+
+### Swift, Vapor(server-side swift framework), MySQL, Heroku 
 
 
 앱 아이콘
