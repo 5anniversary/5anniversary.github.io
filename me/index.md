@@ -31,6 +31,7 @@ title: me
 - 2017/04/23 ~ 2019/02/02
 - [담당 Project](#공군-담당-프로젝트)
 
+
 ## 활동
 <br>
 
@@ -38,7 +39,6 @@ title: me
 <br>
 
 ### S&N 
-
 
 ## 프로젝트
 <br>
@@ -49,6 +49,7 @@ title: me
 - SOPT 26기 해커톤
 
 ### [StudyTogether_iOS](https://5anniversary.dev/20200401/StudyTogether_iOS)
+
 ### [StudyTogether_Server](https://5anniversary.dev/20200401/StudyTogether_Server)
 <br>
 
