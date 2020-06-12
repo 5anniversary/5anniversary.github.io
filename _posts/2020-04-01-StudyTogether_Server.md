@@ -19,6 +19,9 @@ tags: 2020y project server
 - MySQL
 - Heroku 
 
+## Contributors : Solo project
+
+[오준현](https://github.com/5anniversary)
 
 앱 아이콘
 ------------
@@ -49,13 +52,3 @@ tags: 2020y project server
 
 3. [API Wiki](https://github.com/SKHU-STUDY/Server/wiki)
 
-
-
-팀원 소개
-------------
-
-* 오준현 
-
-> 성공회대 소프트웨어공학과 15학번 학생입니다.
->
-> StudyTogether iOS, 앱 디자인 파트, Server를 담당하고 있습니다.
