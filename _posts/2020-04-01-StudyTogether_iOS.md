@@ -11,7 +11,19 @@ tags: 2020y project iOS
 ## 기능설명
 
 ### 스터디를 찾고, 관리해주는 어플리케이션
+<br>
+<br>
+<br>
 
+
+## Contributors : Team Project
+
+- [오준현](https://github.com/5anniversary) - leader
+- [김희재](https://github.com/iowa329)
+- [원현식](https://github.com/HyunSikWon)
+<br>
+<br>
+<br>
 
 
 앱 아이콘
