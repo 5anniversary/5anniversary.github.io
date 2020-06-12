@@ -14,7 +14,10 @@ tags: 2020y project server
 
 ## 사용 기술
 
-### Swift, Vapor(server-side swift framework), MySQL, Heroku 
+- Swift
+- Vapor(server-side swift framework)
+- MySQL
+- Heroku 
 
 
 앱 아이콘
