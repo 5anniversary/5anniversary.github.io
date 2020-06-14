@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Git Study"
+title: "Algorithm Study"
 tags: 2020y study
 ---
 
