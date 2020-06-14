@@ -98,7 +98,7 @@ tags: 2020y study
             <br>
             <a href="https://github.com/soogoon"><I>soogoon</I></a>
         </td>
-        <td width="100"><a href="/soogoon/soogoon.md">문제풀이</a></td>
+        <td width="100"><a href="https://github.com/5anniversary/Algorithm-Study/soogoon/soogoon.md">문제풀이</a></td>
         <td>프로그래머스 레벨 3통과, 문제풀이 30개 이상 풀기</td>
     </tr>
     <tr align="center">
@@ -116,7 +116,7 @@ tags: 2020y study
             <br>
             <a href="https://github.com/5anniversary"><I>5anniversary</I></a>
         </td>
-        <td width="100"><a href="/Junhyeon">문제풀이</a></td>
+        <td width="100"><a href="https://github.com/5anniversary/Algorithm-Study/Junhyeon">문제풀이</a></td>
         <td>swift로 자료구조 정리하기, 알고리즘 문제 푸는 습관 들이기</td>
     </tr>
     <tr align="center">
