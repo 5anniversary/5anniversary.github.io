@@ -4,7 +4,7 @@ title: "Algorithm Study"
 tags: 2020y study
 ---
 
-# 하루한알💊 Algorithm Study
+# 하루한알💊 Algorithm Study [보러가기](https://github.com/5anniversary/Algorithm-Study)
 
 ## 개요
 
