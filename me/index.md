@@ -9,8 +9,8 @@ title: me
 
 ## 링크 
 
-- [Blog](http://blog.5anniversary.dev)
-- [Github](https://github.com/5anniversary)
+- [blog](http://blog.5anniversary.dev)
+- [github](https://github.com/5anniversary)
 - [mail](mailto:oh.junhyeon95@gmail.com)
 
 ## 경력
