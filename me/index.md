@@ -33,18 +33,30 @@ title: me
 
 
 ## 활동
+
+### DDD 4기
 <br>
 
-### SOPT 25기
+### SOPT 26기 iOS 비활동
+<br>
+
+### SOPT 25기 iOS
 <br>
 
 ### S&N 
 
 ## 프로젝트
-<br>
+
+### [MARU]()
+- 사이드 프로젝트
+
+### [Platz]()
+- DDD 4기
+
+### [Ounce](https://5anniversary.dev/20200727/Ounce)
+- SOPT 26기 AppJam / 최우수상 수상
 
 ### [방문](https://5anniversary.dev/20200604/BangMoon)
-<br>
 
 - SOPT 26기 해커톤
 
@@ -58,7 +70,7 @@ title: me
 ### [Nutee](https://5anniversary.dev/20200104/NUTEE-iOS)
 <br>
 
-- S&N 교내 커뮤니티 제작 프로젝트
+- S&N 교내 커뮤니티 제작 프로젝트 / 교내 대회 1등상 수상
 
 ### [MAL(외주)](https://apps.apple.com/kr/app/mal-battery-detecter/id1514115590)
 <br>
@@ -68,7 +80,7 @@ title: me
 ### [Flood](https://5anniversary.dev/20191221/Flood_iOS)
 <br>
 
-- SOPT 25기 AppJam
+- SOPT 25기 AppJam / 대상 수상
 
 ### 이미지인식을 통한 상품 결제 키오스크
 <br>
