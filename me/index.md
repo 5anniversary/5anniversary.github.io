@@ -10,9 +10,7 @@ title: me
 ## 링크 
 
 - [Blog](http://blog.5anniversary.dev)
-
 - [Github](https://github.com/5anniversary)
-
 - [mail](mailto:oh.junhyeon95@gmail.com)
 
 ## 경력
@@ -37,6 +35,7 @@ title: me
 - NUTEE (2015 ~ 2017
 
 ## 프로젝트
+<br>
 
 ### [MARU]()
 - 사이드 프로젝트
