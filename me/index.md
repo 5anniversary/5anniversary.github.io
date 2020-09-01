@@ -60,19 +60,17 @@ title: me
 
 - SOPT 26기 해커톤
 
-### [StudyTogether_iOS](https://5anniversary.dev/20200401/StudyTogether_iOS)
-
-### [StudyTogether_Server](https://5anniversary.dev/20200401/StudyTogether_Server)
+### StudyTogether [iOS](https://5anniversary.dev/20200401/StudyTogether_iOS), [Server](https://5anniversary.dev/20200401/StudyTogether_Server)
 <br>
 
 - 20-1학기 팀 프로젝트
 
-### [Nutee](https://5anniversary.dev/20200104/NUTEE-iOS)
+### [NUTEE](https://5anniversary.dev/20200104/NUTEE-iOS)
 <br>
 
 - S&N 교내 커뮤니티 제작 프로젝트 / 교내 대회 1등상 수상
 
-### [MAL(외주)](https://apps.apple.com/kr/app/mal-battery-detecter/id1514115590)
+### [MAL(Marble Auto Launcher)](https://apps.apple.com/kr/app/mal-battery-detecter/id1514115590)
 <br>
 
 - 20.03~04 개인 외주 프로젝트
