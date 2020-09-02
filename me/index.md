@@ -40,28 +40,30 @@ title: me
 ## 프로젝트
 ### [MARU]()
 - 사이드 프로젝트
+- 진행 중...
 
 ### [Platz]()
 - DDD 4기
+- 진행 중...
 
 ### [Ounce](https://5anniversary.dev/20200727/Ounce)
-- SOPT 26기 AppJam / 최우수상 수상
+- SOPT 26기 AppJam / 최우수상 수상 / 2020.06 ~ 2020.07
 
 ### [방문](https://5anniversary.dev/20200604/BangMoon)
-
-- SOPT 26기 해커톤
+- SOPT 26기 해커톤 / 2020.06
 
 ### StudyTogether [iOS](https://5anniversary.dev/20200401/StudyTogether_iOS), [Server](https://5anniversary.dev/20200401/StudyTogether_Server)
-- 20-1학기 팀 프로젝트
+- 20-1학기 팀 프로젝트 / 2020.04 ~ 2020.07
 
 ### [NUTEE](https://5anniversary.dev/20200104/NUTEE-iOS)
-- S&N 교내 커뮤니티 제작 프로젝트 / 교내 대회 1등상 수상
+- S&N 교내 커뮤니티 제작 프로젝트 / 교내 대회 1등상 수상 / 2019.08 ~
+- 진행 중...
 
 ### [MAL(Marble Auto Launcher)](https://apps.apple.com/kr/app/mal-battery-detecter/id1514115590)
-- 20.03~04 개인 외주 프로젝트
+- 개인 외주 프로젝트 / 2020.03 ~ 2020.04 
 
 ### [Flood](https://5anniversary.dev/20191221/Flood_iOS)
-- SOPT 25기 AppJam / 대상 수상
+- SOPT 25기 AppJam / 대상 수상 / 2019.12 ~ 2020.01
 
 ### 이미지인식을 통한 상품 결제 키오스크
 - 인터마인즈 인턴 재직 중 담당 프로젝트
