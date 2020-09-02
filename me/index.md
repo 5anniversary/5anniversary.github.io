@@ -38,6 +38,21 @@ title: me
   - 운영진 (2019.09 ~)
 - NUTEE (2015.03 ~ 2017.02)
 
+## 스터디 
+
+- [Swift 스터디](https://5anniversary.dev/20200110/Swift_Study) 
+  - 스위프트를 이용한 프로그래밍 공부 스터디
+  - 기간 : 2020.02 ~ 진행 중...
+- [Git 스터디](https://5anniversary.dev/20200201/Git_Study)
+  - Git을 좀 더 활용하기 위해 Git과 Github 활용방법을 알아보는 스터디
+  - 기간 : 2020.03 ~ 2020.06
+- [Algorithm 스터디](https://5anniversary.dev/20200614/Algorithm_Study)
+  - 알고리즘 스터디
+  - 기간 : 2020.06 ~ 2020.07
+- [서버 스터디]()
+  - Javascript 처음부터 Node.js를 이용한 서버 구축까지 배워보는 스터디
+  - 기간 : 2020.08 ~ 진행 중...
+
 ## 프로젝트
 ### [MARU]()
 - 사이드 프로젝트
