@@ -82,7 +82,7 @@ title: me
 - S&N 교내 커뮤니티 제작 프로젝트 / 교내 대회 1등상 수상 / 2019.08 ~
 - 진행 중...
 
-### [MAL(Marble Auto Launcher)](https://apps.apple.com/kr/app/mal-battery-detecter/id1514115590)
+### [MAL(Marble Auto Launcher)](https://apps.apple.com/kr/app/mal-auto-launch/id1531299543)
 - 개인 외주 프로젝트 / 2020.03 ~ 2020.04 
 
 ### [Flood](https://5anniversary.dev/20191221/Flood_iOS)
