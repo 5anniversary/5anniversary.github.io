@@ -34,12 +34,13 @@ title: me
 
 ## 활동
 
+- [SOPT](sopt.org) 27기 iOS 활동 (2020.09 ~ 2021.01)
 - DDD 4기 (2020.08 ~ 2020.10)
-- SOPT 26기 iOS 비활동 (2020.07 ~ 2020.08)
-- SOPT 25기 iOS (2019.09 ~ 2020.01)
+- [SOPT](sopt.org) 26기 iOS 비활동 (2020.07 ~ 2020.08)
+- [SOPT](sopt.org) 25기 iOS (2019.09 ~ 2020.01)
 - S&N (2019.02 ~ )
-  - 회장 (2020.03 ~)
-  - 운영진 (2019.09 ~)
+  - 회장 (2020.03 ~ )
+  - 운영진 (2019.09 ~ )
 - NUTEE (2015.03 ~ 2017.02)
 
 ## 스터디 
@@ -53,14 +54,14 @@ title: me
 - [Algorithm 스터디](https://5anniversary.dev/20200614/Algorithm_Study)
   - 알고리즘 스터디
   - 기간 : 2020.06 ~ 2020.07
-- [서버 스터디]()
+- [서버 스터디](https://github.com/5anniversary/node)
   - Javascript 처음부터 Node.js를 이용한 서버 구축까지 배워보는 스터디
   - 기간 : 2020.08 ~ 진행 중...
 
 ## 프로젝트
-### [MARU]()
+### [MARU](https://github.com/bookmaru/MARU)
 - 사이드 프로젝트
-- 진행 중...
+- [앱스토어 링크](https://url.kr/ap9CX7)
 
 ### [Platz]()
 - DDD 4기
