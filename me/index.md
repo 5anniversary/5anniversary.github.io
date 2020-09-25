@@ -73,7 +73,9 @@ title: me
 ### [방문](https://5anniversary.dev/20200604/BangMoon)
 - SOPT 26기 해커톤 / 2020.06
 
-### StudyTogether [iOS](https://5anniversary.dev/20200401/StudyTogether_iOS), [Server](https://5anniversary.dev/20200401/StudyTogether_Server)
+### StudyTogether 
+- [iOS](https://5anniversary.dev/20200401/StudyTogether_iOS)
+- [Server](https://5anniversary.dev/20200401/StudyTogether_Server)
 - 20-1학기 팀 프로젝트 / 2020.04 ~ 2020.07
 
 ### [NUTEE](https://5anniversary.dev/20200104/NUTEE-iOS)
