@@ -62,7 +62,7 @@ title: me
   - 기간 : 2020.09 ~ 진행 중...
 
 ## 프로젝트
-### [MARU](https://github.com/bookmaru/MARU)
+### [MARU](https://5anniversary.dev/20200814/MARU)
 - 2020.08 ~
 - 사이드 프로젝트
 - Socket.io를 기반으로 한 독서 토론 채팅 어플
